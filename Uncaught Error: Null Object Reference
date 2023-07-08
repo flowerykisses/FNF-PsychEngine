@@ -1,0 +1,19 @@
+flixel/animation/FlxAnimation.hx (line 201)
+flixel/animation/FlxAnimationController.hx (line 100)
+flixel/FlxSprite.hx (line 654)
+flixel/FlxSprite.hx (line 646)
+Character.hx (line 313)
+flixel/group/FlxGroup.hx (line 175)
+flixel/group/FlxGroup.hx (line 175)
+flixel/addons/ui/FlxUIState.hx (line 212)
+MusicBeatState.hx (line 70)
+editors/CharacterEditorState.hx (line 1221)
+flixel/FlxState.hx (line 203)
+flixel/FlxGame.hx (line 747)
+flixel/FlxGame.hx (line 677)
+flixel/FlxGame.hx (line 551)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+The audio has completely stopped, and I don't know how to fix it. I've tried deleting and reinstalling it, but I can't get the audio back. It was working when I first
+started playing, but then it just stopped. :( 
